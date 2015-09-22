@@ -1,0 +1,26 @@
+{
+  "name": "jquery.jimlinkit",
+  "version": "0.1.0",
+  "description": "Simple plugin to convert any element into a link.",
+  "main": "jquery.jimlinkIt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimklonowski/jquery.jimlinkit.git"
+  },
+  "keywords": [
+    "link",
+    "content",
+    "html",
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "author": "Jim Klonowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimklonowski/jquery.jimlinkit/issues"
+  },
+  "homepage": "https://github.com/jimklonowski/jquery.jimlinkit#readme"
+}

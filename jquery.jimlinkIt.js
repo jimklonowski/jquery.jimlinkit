@@ -1,12 +1,12 @@
 /*
- * name: 	jimLinkIt
+ * name: 	LinkIt
  * author: 	Jim Klonowski
  * version: 0.1.0
  * license: MIT
  */
 
  (function($){
- 	$.fn.jimlinkIt = function(options){
+ 	$.fn.linkIt = function(options){
  		//Default Settings
  		var settings = $.extend({
  			href:null,
