@@ -5,7 +5,10 @@
 ##Version##
 0.1.0
 
-##Usage##
+##Published##
+[https://www.npmjs.com/package/jquery.jimlinkit](https://www.npmjs.com/package/jquery.jimlinkit)
+
+
 
 ##Vendors##
 jQuery - [http://jquery.com](http://jquery.com)
